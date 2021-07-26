@@ -2,4 +2,4 @@ meu primeiro teste com o git.
 
 agora fazer a primeira alteração 
 
-script adicinado
+adicionamos o script novamente
