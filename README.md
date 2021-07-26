@@ -1,3 +1,5 @@
 meu primeiro teste com o git.
 
 agora fazer a primeira alteração 
+
+script adicinado
